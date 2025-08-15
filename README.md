@@ -8,7 +8,8 @@ Bu çalışma, 33.653 film yorumu içeren veri seti üzerinde Word2Vec tabanlı 
 
 ## Veri Seti Bilgileri
 
-**Kaynak**: Türkçe Film Sentiment Veri Seti  
+**Kaynak**: [Türkçe Film Sentiment Veri Seti](https://www.kaggle.com/datasets/winvoker/turkishsentimentanalysisdataset/data) 
+
 **Toplam Örnek**: 33.653 film yorumu  
 **Özellikler**: Kullanıcı yorumları ve puanlama (1.0-5.0)  
 **Dil**: Türkçe  
